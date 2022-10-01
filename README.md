@@ -1,2 +1,0 @@
-# Hacktoberfest2023
-HACKTOBERFEST
